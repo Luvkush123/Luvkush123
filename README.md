@@ -2,18 +2,18 @@
 👋 Hi there! I’m **Luvkush Sharma**, a passionate innovator, competitive coder, and robotics enthusiast with a knack for combining technology, engineering, and creativity to solve real-world problems.
 
 ### 🏆 Achievements:
-🥉 **3rd Place Globally** @ 2023 International Robowars, IIT Bombay  
-🎖 **Top 10 Finalist** @ Internal Hackathon for Smart India Hackathon (90 teams)  
-🥇 **1st Place** in Best AI/ML Model Hackathon by @Harnoor Singh  
-🥇 **1st Place** in Best Automation Model Hackathon by @Harnoor Singh  
-💻 **Semifinalist** @ Scaler National Coding League 2.0 (Top 100 Teams in India)  
+- 🥉 **3rd Place Globally** @ 2023 International Robowars, IIT Bombay  
+- 🎖 **Top 10 Finalist** @ Internal Hackathon for Smart India Hackathon (90 teams)  
+- 🥇 **1st Place** in Best AI/ML Model Hackathon by @Harnoor Singh  
+- 🥇 **1st Place** in Best Automation Model Hackathon by @Harnoor Singh  
+- 💻 **Semifinalist** @ Scaler National Coding League 2.0 (Top 100 Teams in India)  
 
 ---
 
 ### 🚀 What I Do:
-Full-Time Innovator & Part-Time Competitive Coder  
-Business Analyst and Manager for **Yash Gamer (175k Subscribers)**  
-Design and build **RC planes, boats, and drones** with hands-on expertise in electronics and mechanical engineering  
+- Full-Time Innovator & Part-Time Competitive Coder  
+- Business Analyst and Manager for **Yash Gamer (175k Subscribers)**  
+- Design and build **RC planes, boats, and drones** with hands-on expertise in electronics and mechanical engineering  
 
 ---
 
