@@ -1,3 +1,23 @@
+# 💫 About Me:
+👋 Hi there! I’m **Luvkush Sharma**, a passionate innovator, competitive coder, and robotics enthusiast with a knack for combining technology, engineering, and creativity to solve real-world problems.
+
+### 🏆 Achievements:
+🥉 **3rd Place Globally** @ 2023 International Robowars, IIT Bombay  
+🎖 **Top 10 Finalist** @ Internal Hackathon for Smart India Hackathon (90 teams)  
+🥇 **1st Place** in Best AI/ML Model Hackathon by @Harnoor Singh  
+🥇 **1st Place** in Best Automation Model Hackathon by @Harnoor Singh  
+💻 **Semifinalist** @ Scaler National Coding League 2.0 (Top 100 Teams in India)  
+
+---
+
+### 🚀 What I Do:
+Full-Time Innovator & Part-Time Competitive Coder  
+Business Analyst and Manager for **Yash Gamer (175k Subscribers)**  
+Design and build **RC planes, boats, and drones** with hands-on expertise in electronics and mechanical engineering  
+
+---
+
+
 <div align="center"> 
   
 <h2 align="center">🐍 Contributions 🐍</h2>
@@ -20,29 +40,10 @@
 
 <br/>
 
-# 💫 About Me:
-👋 Hi there! I’m **Luvkush Sharma**, a passionate innovator, competitive coder, and robotics enthusiast with a knack for combining technology, engineering, and creativity to solve real-world problems.
-
-### 🏆 Achievements:
-- 🥉 **3rd Place Globally** @ 2023 International Robowars, IIT Bombay  
-- 🎖 **Top 10 Finalist** @ Internal Hackathon for Smart India Hackathon (90 teams)  
-- 🥇 **1st Place** in Best AI/ML Model Hackathon by @Harnoor Singh  
-- 🥇 **1st Place** in Best Automation Model Hackathon by @Harnoor Singh  
-- 💻 **Semifinalist** @ Scaler National Coding League 2.0 (Top 100 Teams in India)  
-
----
-
-### 🚀 What I Do:
-- Full-Time Innovator & Part-Time Competitive Coder  
-- Business Analyst and Manager for **Yash Gamer (175k Subscribers)**  
-- Design and build **RC planes, boats, and drones** with hands-on expertise in electronics and mechanical engineering  
-
----
-
 ### 🌟 Let’s Connect:
 I’m driven by opportunities that allow me to innovate, create, and make an impact. Whether it’s software development, aerospace engineering, or digital strategy, I’m eager to collaborate and explore.
 
-📧 **Email**: [your email/contact link]  
+📧 **Email**: [1212luvsharma@gmail.com]  
 🌐 **Social Media**:  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QMmKxYCBrM) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luvkushsharma) 
@@ -70,18 +71,6 @@ I’m driven by opportunities that allow me to innovate, create, and make an imp
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Luvkush123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Luvkush123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luvkush123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Luvkush123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
