@@ -2,7 +2,7 @@
 👋 Hi there! I’m **Luvkush Sharma**, a passionate innovator, competitive coder, and robotics enthusiast with a knack for combining technology, engineering, and creativity to solve real-world problems.
 
 ### 🏆 Achievements:
-- 🥇 **Secured 1st place globally at the 2025 International Robowars @SVNIT
+- 🥇 **Secured 1st place Globally** at the 2025 International Robowars @SVNIT
 - 🥇 **1st Place** in Best AI/ML Model Hackathon by @Harnoor Singh 
 - 🥉 **3rd Place Globally** @ 2023 International Robowars, IIT Bombay  
 - 🎖 **Top 10 Finalist** @ Internal Hackathon for Smart India Hackathon (90 teams)  
